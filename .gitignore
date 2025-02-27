@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Build artifacts
+dist/
+.next/
+.out/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+logs/
+*.log
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Cache files
+.cache/
+.npm/
+.pnpm-store/
+.next/cache/
+
+# Testing coverage
+coverage/
+
+# Miscellaneous
+*.lock
